@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">Resep Makanan</string>
+    <string name="data_kosong">Data masih kosong!</string>
+    <string name="cari_resep">Cari Resep</string>
+    <string name="koneksi_error">Error Koneksi!</string>
+    <string name="masukan_resep">Masukan nama resep</string>
+    <string name="cari">Cari</string>
+    <string name="no_resep">Resep tidak ditemukan.. :( \nCoba ganti kata kunci dengan bahasa Inggris\n*contoh: Nasi Goreng -> Fried Rice</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
